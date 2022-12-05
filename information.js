@@ -1,6 +1,5 @@
-const firstName = "Moana";
-const campus ="Remote";
+const user={firstName:"Moana",campus:"Remote",}
+
 module.exports = {
-    firstName: firstName,
-    campus: campus,
+  user: user,
 };
